@@ -13,5 +13,3 @@ API: Frequency API for real-time exchange rates.
 ✅ User-friendly UI with interactive elements ✨
 ✅ Responsive design for desktop 📱
 
-## 🚀 Try It Live  
-🌍 [Currency Converter -file:///C:/Users/Asus/OneDrive/Desktop/currency%20convertor/index.html]
