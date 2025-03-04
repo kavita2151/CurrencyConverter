@@ -1,0 +1,79 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(207 186 208);
+}
+.container {
+    background-color: rgb(184 169 73);
+    padding:2em;
+    border-radius: 1em;
+    height: 40vh;
+    width:45vh;
+}
+form{
+    margin:2rem 0 1rem 0;
+}
+
+form select,button,input{
+    width:100%;
+    border:none;
+    outline:none;
+    border: radius 1rem;
+
+}
+
+form input{
+    border:3px solid rgb(19, 13, 19);
+    font-size: 20px;
+    height:2rem;
+    padding-left:0.5 rem;
+    border-radius:1rem;
+}
+
+.dropdown{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 3rem;
+}
+.dropdown i{
+    font-size: 2rem;
+    margin-top:0.5rem;
+}
+.select-container img{
+    font-size:1.75rem;
+    width:2rem;
+}
+.select-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:6rem;
+    border-radius: 0.75rem;
+border:3px solid rgb(26, 21, 25);
+}
+.select-container select{
+    font-size:1rem;
+}
+.msg{
+    margin:2rem 0 0.5rem 0;
+}
+button{
+    align-items: center;
+    justify-content: center;
+    margin-top:2rem;
+    margin-left:4rem;
+    height: 4vh;
+    width: 30vh;;
+    background-color: rgb(148, 54, 70);
+    border-radius: 5rem;
+    border-color: 6rem solid purple;
+    font-size:1rem;
+}
